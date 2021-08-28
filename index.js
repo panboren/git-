@@ -6,3 +6,5 @@ console.log(c);
 let ggg=100
 let key=100
 let k=ggg+key
+
+let tet1=100
