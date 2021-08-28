@@ -8,3 +8,6 @@ let key=100
 let k=ggg+key
 
 let tet1=100
+
+
+let tetx2 = 200
